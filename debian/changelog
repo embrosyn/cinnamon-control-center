@@ -48,7 +48,7 @@ cinnamon-control-center (4.0.0) tessa; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Oct 2018 14:47:53 +0000
 
-cinnamon-control-center (3.8.2ubuntu1) ubuntuReleaseName; urgency=medium
+cinnamon-control-center (3.8.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
 
   * New upstream release
 
