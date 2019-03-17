@@ -29,6 +29,12 @@ cinnamon-control-center (4.2.0) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Fri, 14 Jun 2019 12:48:40 +0100
 
+cinnamon-control-center (4.0.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 17 Mar 2019 23:42:58 +0100
+
 cinnamon-control-center (4.0.1) tessa; urgency=medium
 
   * Wacom: Add a switch to set automatic rotation
