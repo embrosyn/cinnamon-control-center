@@ -9,6 +9,12 @@ cinnamon-control-center (4.4.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat, 16 Nov 2019 12:08:18 +0100
 
+cinnamon-control-center (4.2.2-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 12 Oct 2019 02:51:34 +0200
+
 cinnamon-control-center (4.2.2) tina; urgency=medium
 
   * GOA: Remove desktop file
